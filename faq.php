@@ -72,7 +72,7 @@ $(document).ready(function(){
 	</dt>
 	<dd>
 	<h4 class="marker">A.</h4>
-	<p class="m_4">To create a profile on [Your App's Name], navigate to the "Profile" section after signing in. Here, you can upload photos, provide personal details such as age, location, education, and occupation, and specify your preferences for a potential match.</p>
+	<p class="m_4">To create a profile on application name, navigate to the "Profile" section after signing in. Here, you can upload photos, provide personal details such as age, location, education, and occupation, and specify your preferences for a potential match.</p>
 	</dd>
 	<dt class="faq-list_h">
 	<h4 class="marker">Q?</h4>

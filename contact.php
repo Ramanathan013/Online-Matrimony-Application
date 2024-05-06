@@ -63,11 +63,11 @@ $(document).ready(function(){
             <dt>Address :</dt>
             <dd>
                 4th,ponniamman kovil street <br>
-                sholinganallur.
+                sholinganallur,Chennai-19.
             </dd>
         </dl>
         <dl class="grid_4">
-            <dt>Telephones :</dt>
+            <dt>Telephones:</dt>
             <dd>
                 <br>
                9080294297 

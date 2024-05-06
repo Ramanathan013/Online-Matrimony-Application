@@ -113,7 +113,7 @@ $(document).ready(function(){
 				<div class="clearfix"></div>
 				</div>
 			</blockquote>
-			<small class="testi-meta1"><span class="user">client1 </span></small>
+			<small class="testi-meta1"><span class="user">client4 </span></small>
 		</div>
 		<div class="clearfix"> </div>
 	  </div>
@@ -127,7 +127,7 @@ $(document).ready(function(){
 				<div class="clearfix"></div>
 				</div>
 			</blockquote>
-		    <small class="testi-meta"><span class="user">client2</span></small>
+		    <small class="testi-meta"><span class="user">client3</span></small>
 		</div>
 		<div class="col-sm-6 testi_grid list-item-1">
 			<blockquote class="testi_grid_blockquote">
